@@ -27,3 +27,11 @@ This project implements a simple **ecommerce system** in Java that handles produ
 - **Insufficient Funds**: Error if the customer doesn't have enough balance.
 - **Out of Stock**: Error if product quantity exceeds available stock.
 - **Expired Products**: Error if a product is expired.
+
+## Test Inputs
+
+![Test Input](https://github.com/muhafrom/fawry-ecommerce/blob/main/testinput.jpg)
+
+## Test Outputs
+
+![Test Output](https://github.com/muhafrom/fawry-ecommerce/blob/main/testoutput.jpg)
