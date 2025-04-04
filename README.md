@@ -15,6 +15,7 @@ This project implements a simple **ecommerce system** in Java that handles produ
 
 - **Product**: Defines the properties and methods for products (e.g., expiration check, quantity).
 - **Customer**: Handles customer details and balance.
+- **Shippable**: Interface for products that require shipping, with methods to retrieve the product's name and weight.
 - **Cart**: Manages items added to the cart.
 - **CheckoutService**: Handles checkout logic (subtotal, shipping, balance).
 - **ShippingService**: Processes shipping fees based on weight.
